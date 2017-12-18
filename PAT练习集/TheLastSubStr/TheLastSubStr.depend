@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1487823724 source:c:\users\ÂÞ½ð·É\desktop\c++test\thelastsubstr\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<algorithm>
+	<iomanip>
+	<string>
+	<iostream>
+

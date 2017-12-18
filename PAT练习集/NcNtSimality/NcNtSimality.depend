@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1488021394 source:c:\users\ÂÞ½ð·É\desktop\c++test\ncntsimality\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+	<iomanip>
+	<set>
+

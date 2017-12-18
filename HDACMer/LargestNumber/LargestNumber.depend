@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490090626 source:g:\c++test\hdacmer\largestnumber\main.cpp
+	<iostream>
+	<map>
+

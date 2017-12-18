@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1489485926 source:c:\users\罗金飞\desktop\c++test\hdacmer\相遇周期\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+	<cmath>
+	<set>
+

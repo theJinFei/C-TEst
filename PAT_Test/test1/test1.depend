@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1506420148 source:g:\c++test\pat_test\test1\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<algorithm>
+	<iomanip>
+	<string>
+	<cstdio>
+	<string.h>
+	<set>
+	<cmath>
+	<map>
+	<stack>
+	<string.h>
+	<sstream>
+

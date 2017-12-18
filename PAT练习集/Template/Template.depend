@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1488443255 source:c:\users\ÂÞ½ð·É\desktop\c++test\template\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<algorithm>
+	<iomanip>
+	<string>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1500447096 source:g:\c++test\liurujia\test1\pro1\pro1\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+	<string.h>
+	<algorithm>
+	<set>
+	<stack>
+	<cmath>
+	<map>
+

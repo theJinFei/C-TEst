@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490001067 source:g:\c++test\pat-advanced\a1081\main.cpp
+	<iostream>
+	<stdio.h>
+

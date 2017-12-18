@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489984049 source:g:\c++test\pat-advanced\a1001\main.cpp
+	<iostream>
+	<vector>
+

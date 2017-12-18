@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1489560249 source:c:\users\ÂÞ½ð·É\desktop\c++test\hdacmer\digital roots\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<cmath>
+	<vector>
+

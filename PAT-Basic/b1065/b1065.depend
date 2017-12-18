@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1489045100 source:c:\users\ÂÞ½ð·É\desktop\c++test\b1065\main.cpp
+	<iostream>
+	<string>
+	<set>
+	<vector>
+	<algorithm>
+	<stdio.h>
+	<map>
+
+1489325206 source:c:\users\ÂÞ½ð·É\desktop\c++test\pat-basic\b1065\main.cpp
+	<iostream>
+	<string>
+	<set>
+	<vector>
+	<algorithm>
+	<stdio.h>
+	<map>
+

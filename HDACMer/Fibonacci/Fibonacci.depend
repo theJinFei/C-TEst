@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489593458 source:g:\c++test\hdacmer\fibonacci\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<cmath>
+

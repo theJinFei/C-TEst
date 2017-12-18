@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1491395337 source:g:\c++test\wangoj\stack\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<vector>
+	<limits.h>
+	<stack>
+	<map>
+

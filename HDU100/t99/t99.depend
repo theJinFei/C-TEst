@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1491017598 source:g:\c++test\hdu100\t99\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<stdio.h>
+	<map>
+

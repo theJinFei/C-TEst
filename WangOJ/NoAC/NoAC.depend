@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1491467707 source:g:\c++test\wangoj\noac\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+	<string.h>
+

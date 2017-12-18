@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1487765605 source:c:\users\ÂÞ½ð·É\desktop\c++test\maxlirun\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<algorithm>
+	<iomanip>
+

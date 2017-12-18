@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490152707 source:g:\c++test\wangoj\searchnumber\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+

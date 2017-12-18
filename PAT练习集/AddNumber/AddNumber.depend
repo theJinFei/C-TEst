@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1484017226 source:c:\users\ÂÞ½ð·É\desktop\c++test\addnumber\main.cpp
+	<iostream>
+	<cmath>
+	<iostream>
+	<string>
+	<cctype>
+	<cmath>
+

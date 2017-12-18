@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1502325039 source:g:\c++test\wangoj\testtwice\main.cpp
+	<stdio.h>
+	<iostream>
+	<stack>
+	<string.h>
+	<queue>
+	<math.h>
+	<vector>
+	<algorithm>
+	<map>
+	<set>
+	<string>
+	<iomanip>
+

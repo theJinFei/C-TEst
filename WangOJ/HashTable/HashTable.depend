@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1490147892 source:g:\c++test\wangoj\hashtable\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+	<string.h>
+

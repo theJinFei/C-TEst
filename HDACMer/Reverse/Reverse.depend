@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1488932720 source:c:\users\ÂÞ½ð·É\desktop\c++test\hdacmer\reverse\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<algorithm>
+	<iomanip>
+	<string>
+	<cstdio>
+	<string.h>
+	<set>
+	<cmath>
+	<stack>
+

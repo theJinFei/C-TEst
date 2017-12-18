@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493037945 source:g:\c++test\hdacmer\pid2014\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+	<limits.h>
+	<set>
+	<map>
+	<string.h>
+

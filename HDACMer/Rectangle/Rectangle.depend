@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490106667 source:g:\c++test\hdacmer\rectangle\main.cpp
+	<iostream>
+	<stdio.h>
+	<iostream>
+	<stdio.h>
+	<string.h>
+

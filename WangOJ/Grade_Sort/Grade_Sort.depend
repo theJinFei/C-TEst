@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490143684 source:g:\c++test\wangoj\grade_sort\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+

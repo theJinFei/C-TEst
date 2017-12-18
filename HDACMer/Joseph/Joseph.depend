@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490166377 source:g:\c++test\hdacmer\joseph\main.cpp
+	<iostream>
+	<cstdio>
+

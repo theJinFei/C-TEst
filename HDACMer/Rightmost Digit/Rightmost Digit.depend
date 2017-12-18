@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1488901524 source:c:\users\ÂÞ½ð·É\desktop\c++test\hdacmer\rightmost digit\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<algorithm>
+	<iomanip>
+	<string>
+	<cstdio>
+	<string.h>
+	<set>
+	<cmath>
+

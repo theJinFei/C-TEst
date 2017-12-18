@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490428775 source:g:\c++test\ccf\新建文件夹\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<algorithm>
+	<iomanip>
+	<string>
+	<cstdio>
+	<string.h>
+	<set>
+	<cmath>
+	<map>
+

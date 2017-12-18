@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1490171147 source:g:\c++test\wangoj\helloworldforu\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+	<cmath>
+	<set>
+	<string>
+	<string.h>
+

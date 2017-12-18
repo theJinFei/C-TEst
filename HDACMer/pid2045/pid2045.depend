@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493349792 source:g:\c++test\hdacmer\pid2045\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<string>
+	<cstdlib>
+	<set>
+	<algorithm>
+	<limits.h>
+	<ctype.h>
+	<map>
+	<stack>
+	<vector>
+	<sstream>
+	<string.h>
+

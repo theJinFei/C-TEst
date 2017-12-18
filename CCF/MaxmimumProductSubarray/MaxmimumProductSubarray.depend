@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490840529 source:g:\c++test\ccf\maxmimumproductsubarray\main.cpp
+	<iostream>
+	<algorithm>
+	<limits.h>
+	<fstream>
+	<string.h>
+

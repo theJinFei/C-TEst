@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1487824538 source:c:\users\ÂÞ½ð·É\desktop\c++test\rentroom\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<algorithm>
+	<iomanip>
+	<string>
+

@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1511935366 source:g:\c++test\hammingtest\hammingtest.cpp
+	"HammingTest.h"
+
+1511924681 g:\c++test\hammingtest\hammingtest.h
+	<iostream>
+	<stdio.h>
+	<vector>
+	<math.h>
+	<bitset>
+	<unordered_map>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+
+1511922042 source:g:\c++test\hammingtest\main.cpp
+	<iostream>
+	"HammingTest.h"
+
+1511922042 source:g:\c++test\hammingtest xor\main.cpp
+	<iostream>
+	"HammingTest.h"
+
+1512523931 g:\c++test\hammingtest xor\hammingtest.h
+	<iostream>
+	<stdio.h>
+	<vector>
+	<math.h>
+	<bitset>
+	<unordered_map>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1512634282 source:g:\c++test\hammingtest xor\hammingtest.cpp
+	"HammingTest.h"
+

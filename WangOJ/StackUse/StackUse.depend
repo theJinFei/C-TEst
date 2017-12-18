@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491470524 source:g:\c++test\wangoj\stackuse\main.cpp
+	<queue>
+	<iostream>
+	<stdio.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489397870 source:c:\users\罗金飞\desktop\c++test\hdacmer\今年暑假不ac\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+

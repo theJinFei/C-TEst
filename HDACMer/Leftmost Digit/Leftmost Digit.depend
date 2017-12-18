@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489545649 source:c:\users\ÂÞ½ð·É\desktop\c++test\hdacmer\leftmost digit\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<cmath>
+

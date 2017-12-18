@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1489371961 source:c:\users\ÂÞ½ð·É\desktop\pat¼×¼¶(advanced level)\1031. hello world for u (20)\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+	<cmath>
+	<set>
+	<string>
+	<string.h>
+

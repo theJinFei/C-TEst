@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491276012 source:g:\c++test\hdu100\test\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+

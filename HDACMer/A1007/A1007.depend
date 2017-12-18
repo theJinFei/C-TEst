@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1491916097 source:g:\c++test\hdacmer\a1007\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+

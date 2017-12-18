@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1490614194 source:g:\c++test\ccf\isbn\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+	<algorithm>
+	<set>
+	<map>
+

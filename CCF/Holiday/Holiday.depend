@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1490621343 source:g:\c++test\ccf\holiday\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+	<algorithm>
+	<set>
+	<map>
+

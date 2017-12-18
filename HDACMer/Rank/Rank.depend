@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489406658 source:c:\users\ÂÞ½ð·É\desktop\c++test\hdacmer\rank\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<stdio.h>
+

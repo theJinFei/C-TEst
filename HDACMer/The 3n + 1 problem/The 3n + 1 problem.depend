@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489551980 source:c:\users\ÂÞ½ð·É\desktop\c++test\hdacmer\the 3n + 1 problem\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<cmath>
+

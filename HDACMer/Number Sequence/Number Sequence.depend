@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1489562469 source:c:\users\ÂÞ½ð·É\desktop\c++test\hdacmer\number sequence\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<cmath>
+
+1489583748 source:g:\c++test\hdacmer\number sequence\main.cpp
+	<stdio.h>
+	<math.h>
+	<string.h>
+

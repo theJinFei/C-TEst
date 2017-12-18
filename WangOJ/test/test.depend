@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1491377445 source:g:\c++test\wangoj\test\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<vector>
+	<limits.h>
+
