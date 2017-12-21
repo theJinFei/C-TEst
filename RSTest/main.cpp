@@ -1,7 +1,8 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+//想实现 将伽罗华域映射为柯西矩阵
+//最后寻找最优的柯西矩阵使总的运算量 最小
 //先生成伽罗华的加和乘的规则
 const vector<vector<int> > add_v = {
     {0, 1, 2, 3, 4, 5, 6, 7},
