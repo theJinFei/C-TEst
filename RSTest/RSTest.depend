@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1514354558 source:g:\c++test\rstest\main.cpp
+	<iostream>
+	<vector>
+
+1514359825 source:g:\c++test\rstest\reversmatrix.cpp
+	<math.h>
+	<malloc.h>
+	<iostream>
+	<iomanip>
+
+1514362411 source:g:\c++test\rstest\reverstest.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<stdio.h>
+

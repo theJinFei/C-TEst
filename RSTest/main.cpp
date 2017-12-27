@@ -27,7 +27,7 @@ const vector<vector<int> > multi_v = {
 
 //GF(2^3)生成矩阵
 const vector<vector<int> >  GenerMatix = {
-    {1, 0, 0, 6, 1, 6, 3},
+    {1, 0, 0, 6, 1, 6, 7},
     {0, 1, 0, 4, 1, 5, 5},
     {0, 0, 1, 3, 1, 2, 3}
 };
@@ -36,34 +36,34 @@ const vector<vector<int> > HMatix = {
     {6, 4, 3, 1, 0, 0, 0},
     {1, 1, 1, 0, 1, 0, 0},
     {6, 5, 2, 0, 0, 1, 0},
-    {3, 5, 3, 0, 0, 0, 1}
+    {7, 5, 3, 0, 0, 0, 1}
 };
 const vector<int> before_M = {6, 5, 4};
 const int size_n = 7;
 const int size_r = 3;
 vector<int> after_M;
-int main()
-{
-    for(int i = 0; i < size_n; i++){
-        vector<int> temp;
-        int ans = 0;
-        for(int j = 0;  j < size_r; j++){
-            temp.push_back(multi_v[before_M[j]][GenerMatix[j][i]]);
-        }
-//        for(int j = 0; j < temp.size(); j++){
-//            cout << temp[j] << " ";
+//int main()
+//{
+//    for(int i = 0; i < size_n; i++){
+//        vector<int> temp;
+//        int ans = 0;
+//        for(int j = 0;  j < size_r; j++){
+//            temp.push_back(multi_v[before_M[j]][GenerMatix[j][i]]);
 //        }
-//        cout << endl;
-        for(int j = 0; j < temp.size() - 1; j++){
-            temp[j+1] = add_v[temp[j]][temp[j+1]];
-        }
-        after_M.push_back(*(temp.end() - 1));
-    }
-    cout << "编码后的结果为：" << endl;
-    for(int i = 0; i < after_M.size(); i++){
-        cout << after_M[i] << " ";
-    }
-    cout << endl;
-
-    return 0;
-}
+////        for(int j = 0; j < temp.size(); j++){
+////            cout << temp[j] << " ";
+////        }
+////        cout << endl;
+//        for(int j = 0; j < temp.size() - 1; j++){
+//            temp[j+1] = add_v[temp[j]][temp[j+1]];
+//        }
+//        after_M.push_back(*(temp.end() - 1));
+//    }
+//    cout << "编码后的结果为：" << endl;
+//    for(int i = 0; i < after_M.size(); i++){
+//        cout << after_M[i] << " ";
+//    }
+//    cout << endl;
+//
+//    return 0;
+//}
