@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514427161 source:g:\c++test\gftest\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<stdio.h>
+	<vector>
+	<stdlib.h>
+
